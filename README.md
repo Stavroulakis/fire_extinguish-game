@@ -1,2 +1,2 @@
 # fire_extinguish-game
-fire extinguish game in c++
+fire extinguish game in c++ with graphics
